@@ -613,9 +613,10 @@ Abra uma [issue](https://github.com/rafaelferreira2312/teste-montink-backend/iss
 
 ### **Contato**
 
-- **Desenvolvedor**: Rafael Ferreira
-- **Email**: rafael.ferreira2312@example.com
+- **Desenvolvedor**: Rafael Ferreira da Silva
+- **Email**: rafaelferreira2312@gmail.com
 - **GitHub**: [@rafaelferreira2312](https://github.com/rafaelferreira2312)
+- **Site**: [Rafael Ferreira da Silva](https://rafaelferreiradasilva.com.br)
 
 ---
 
